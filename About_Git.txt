@@ -74,7 +74,11 @@ git remote rename <oldname><newname> -> helps us to change the name of repo.
         git push
 
 
+*About branch-
 
+git branch -a -> show all branches that are available.
+
+git checkout <branchname> -> with this you can change branch.
 
 
 
